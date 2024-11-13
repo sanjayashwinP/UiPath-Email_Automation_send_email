@@ -1,5 +1,6 @@
 ## Exercise_10-Email Automation-send_email
-
+### NAME:SANJAY ASHWIN P 
+### REG NO:212223040181
 ## Aim:
 
 To automate the process of sending an email using UiPath Studio.
